@@ -1,4 +1,4 @@
-GET http://localhost:8000/api/ratereview/"sexy product"
+GET http://localhost:8000/api/ratereview/"good product"
 
 ################################################################################
 
